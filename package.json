@@ -1,0 +1,27 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "my-electron-app ",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyuJaeJeong/my-electron-app.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "financeRyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyuJaeJeong/my-electron-app/issues"
+  },
+  "homepage": "https://github.com/RyuJaeJeong/my-electron-app#readme",
+  "devDependencies": {
+    "electron": "^29.1.0"
+  }
+}
